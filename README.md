@@ -1,6 +1,13 @@
 # MODULE_FOR_RBAC
 Risk Based Access Control
 
+Contributors:
+Satheesh              satheeshgopalans@gmail.com
+Seemanthini           joisseemanthini@gmail.com
+Atul Bhaskar          atul.bhaskarjgdg@gmail.com 
+Namitha Kashyap       namitha.sreenath@gmail.com
+
+
 This is a Java based Module for Risk Based Access Control.
 
 Default username:Satheesh
