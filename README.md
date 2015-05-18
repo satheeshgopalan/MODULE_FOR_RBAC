@@ -10,8 +10,8 @@ Namitha Kashyap       namitha.sreenath@gmail.com
 
 This is a Java based Module for Risk Based Access Control.
 
-Default username:Satheesh
-Default password:Satheesh
+Default username:satheesh
+Default password:satheesh
 
 It consists of three important sub-modules:
 Admin Console : Used for administration of Client user.
